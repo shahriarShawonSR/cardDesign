@@ -11,6 +11,7 @@ html, body {
     background-repeat: no-repeat;
     background-attachment: fixed;
 }
+
 h1, h2, h3, h4{
     font-weight: normal;   
 }
@@ -222,7 +223,8 @@ a.dark:hover{
     padding: 15px;
 }
 .p20 {
-    padding: 20px !important;
+    padding: 50px !important;
+    
 }
 .p30 {
     padding: 30px;
@@ -818,7 +820,11 @@ i.online{
     border-radius: 0px;
     transition: all 1s;
     border: none;
+    height: 50px;
+    width: 50px;
 }
+
+
 .panel-default{
     border-color: #f2f4f6;
 }

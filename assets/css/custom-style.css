@@ -1,1 +1,12 @@
 /*Write your custom css in this file.*/
+.vertical-align {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    padding: 0;
+    margin: 0;
+}
+.vertical-align .row [class*='col-']{
+    min-width: 320px;
+}

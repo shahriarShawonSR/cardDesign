@@ -6,22 +6,12 @@
             aria-controls="navbar">
             <span class="fa fa-chevron-down"></span>
         </button>
-        <!-- <button id="sidebar-toggle" type="button" class="navbar-toggle" data-target="#sidebar">
-            <span class="sr-only">Toggle navigation</span>
-            <span class="fa fa-bars"></span>
-        </button> -->
+
 
         <a class="navbar-brand" href="#"><img class="dashboard-image" src="assets/images/logo.png" /></a>
     </div>
 
     <div id="navbar" class="navbar-collapse collapse">
-        <!-- <ul class="nav navbar-nav navbar-left inline-block">
-            <li class="hidden-xs pl15 pr15  b-l">
-                <button class="hidden-xs" id="sidebar-toggle-md">
-                    <span class="fa fa-dedent"></span>
-                </button>
-            </li>
-        </ul> -->
         <ul class="nav navbar-nav navbar-right inline-block">
             <li class="dropdown pr15 dropdown-user">
                 <a id="user-dropdown-icon" href="#" class="dropdown-toggle" data-toggle="dropdown" role="button"
